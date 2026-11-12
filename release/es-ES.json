@@ -5503,24 +5503,24 @@
             ],
             "limbmuscle": [
                 "<limb> no mo-ver...",
-                "¿<limb> de Du-ne dejar de fun-cio-nar?",
+                "¿Du-ne <limb> dejar de fun-cio-nar?",
                 "Du-ne nece-si-tar <limb> de re-cambio.",
                 "<limb> no ir...nnngrrhh...",
                 "¡<limb> ser ruin..! ¡Gghhrr!",
-                "¡<limb>... De Du-ne do-ler..!"
+                "¡Du-ne... <limb> do-ler..!"
             ],
             "limbinfected": [
-                "<limb> du-ne ca-liente...",
+                "Du-ne <limb> ca-liente...",
                 "¿Malo..?",
                 "¿Nnnrr...<limb> as-pecto ra-ro..?",
-                "¿<limb> de Du-ne... Sar-pu-llido..?",
+                "¿Du-ne <limb>... Sar-pu-llido..?",
                 "Hhnnn...<limb> sen-sación ra-ra..."
             ],
             "limbskin": [
                 "¿<limb> color ama-rillo..?",
                 "¡Oooouur! ¡<limb> estar ma-l!",
                 "Du-ne doler...",
-                "<limb> de Du-ne doler...",
+                "Du-ne <limb> doler...",
                 "Ghhhrr...<limb> no bie-n..."
             ],
             "sad": [
